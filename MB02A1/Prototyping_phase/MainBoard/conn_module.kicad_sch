@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "30b68dcb-33bb-4d9c-b5b7-6df6d3c35b95")
+	(paper "A4")
+	(title_block
+		(title "MB02A1 - Connector Module")
+		(date "2025-01-18")
+		(rev "A1")
+	)
+	(lib_symbols)
+)

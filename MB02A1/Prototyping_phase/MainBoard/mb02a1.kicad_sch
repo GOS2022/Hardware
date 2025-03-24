@@ -1,0 +1,284 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ee4e0941-1c36-4545-8b22-b979d73b3a97")
+	(paper "A4")
+	(title_block
+		(title "MB02A1")
+		(date "2025-01-18")
+		(rev "A1")
+	)
+	(lib_symbols)
+	(sheet
+		(at 152.4 25.4)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 132 1.0000)
+		)
+		(uuid "27869566-fa24-4e10-9012-10a05996ae4f")
+		(property "Sheetname" "WiFi Module"
+			(at 152.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wifi_module.kicad_sch"
+			(at 152.4 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 76.2)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "3d9b12b7-5d60-4d47-8c8e-90cbf46ce5f6")
+		(property "Sheetname" "UART-USB Converters"
+			(at 88.9 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uart_usb_conv.kicad_sch"
+			(at 88.9 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 76.2)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 1.0000)
+		)
+		(uuid "745151e3-e35f-43de-a201-9fb61ea4fc9d")
+		(property "Sheetname" "RTC Module"
+			(at 152.4 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rtc_module.kicad_sch"
+			(at 152.4 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 25.4)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 132 0 1.0000)
+		)
+		(uuid "8ff67ddf-6608-4294-a460-11103f32093f")
+		(property "Sheetname" "Connector Module"
+			(at 215.9 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conn_module.kicad_sch"
+			(at 215.9 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 25.4)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 72 0 1.0000)
+		)
+		(uuid "aeb6b597-26fb-4829-a01f-c024d1928fdc")
+		(property "Sheetname" "CPU Module"
+			(at 88.9 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu_module.kicad_sch"
+			(at 88.9 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 76.2)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "b9c17cec-5b94-45c5-962d-af5c69f56587")
+		(property "Sheetname" "Memory Modul"
+			(at 25.4 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mem_module.kicad_sch"
+			(at 25.4 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 50.8 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 0 1.0000)
+		)
+		(uuid "c17459ea-fd75-4a33-b501-4f0ee6f3a833")
+		(property "Sheetname" "Power Supply Module"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pwr_module.kicad_sch"
+			(at 25.4 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mb02a1"
+				(path "/ee4e0941-1c36-4545-8b22-b979d73b3a97"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
