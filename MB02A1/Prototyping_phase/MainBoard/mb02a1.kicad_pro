@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -609,7 +609,7 @@
     ],
     [
       "b9c17cec-5b94-45c5-962d-af5c69f56587",
-      "Memory Modul"
+      "Memory Module"
     ],
     [
       "aeb6b597-26fb-4829-a01f-c024d1928fdc",

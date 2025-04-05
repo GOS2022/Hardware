@@ -212,7 +212,7 @@
 			(color 255 255 194 1.0000)
 		)
 		(uuid "b9c17cec-5b94-45c5-962d-af5c69f56587")
-		(property "Sheetname" "Memory Modul"
+		(property "Sheetname" "Memory Module"
 			(at 25.4 75.4884 0)
 			(effects
 				(font
