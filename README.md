@@ -8,5 +8,5 @@ The main goal of hardware projects is to create a compact test device for the OS
 Contribution to this project is encouraged and appriciated.
 If you have any questions or ideas, feel free to contact me: ahmedibrahim.gazar97@gmail.com
 
-Last updated: 2025-04-07
+Last updated: 2025-07-04
 (c) 2025, Ahmed Gazar
